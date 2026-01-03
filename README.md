@@ -34,6 +34,9 @@ Contest the best Kernel for IsT
 
 **Please leave in the about line that this is actually a terminal IsT. If it is MyTerminalOS or something else, you will not be included in the video!!**
 
+![Терминал IsT](photos/photo1.png)
+
+
 # Как мне написать куда и как заполнять | How should I write where and how should I fill it out?
 **1. Куда отправлять код?**
 
@@ -67,3 +70,11 @@ In TikTok
 1. Your Kernel name
 
 2. Link to Yandex Disk, Google Drive, or GitHub, as per your preference
+
+🇷🇺: Удачи вам!
+----
+🇪🇳:Good luck to you!
+----
+
+Source File:SystemKernel.cs  | Исходник SystemKernel.cs
+-----
